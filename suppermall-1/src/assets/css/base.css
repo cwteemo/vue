@@ -1,6 +1,4 @@
 @import "./normalize.css";
-
-
 :root {
     --color-text: #666;
     --color-high-text: #ff5777;
@@ -17,7 +15,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 
 body{
     font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragione San GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
